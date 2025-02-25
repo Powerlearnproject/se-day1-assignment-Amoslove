@@ -35,15 +35,31 @@ ANSWERE: the life cycle of software development are as follows:
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+ANSWERE:agile methodologies is more flexible and allows changes throughout while waterfall is rigid and does not give room for changes.
+agile adapt more than waterfall,before developing in waterfall you have to do lots of planning before development because making changes is hardly accomotating
+but with agile while developing and making changes it adapt to changes
+agile is interactive while waterfall is sequential
+agile would be appropriat in an e-comerce development sccenerio where there is cinstant changes in the market
+
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+ANSWERE: a software develope is responsible for designing,building,testing and maintaining software application.
+ a quality assurance engineer is responsible for software product testing,making sure it meets up standard and also check for bugs and report back to the developer, mostly focuses on making sure the product is reliable.
+ a project manager is the overseer of the project, incliding the budget and resources needed, he is like the middle man between the developers and the client, he provides blueprint of the project and makes sure it followed and delivered on time.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+ANDSWERE: IDEs are ipmortant because it is an  application that helps developers to write codes(build applications) check for error test,deploy and maintain and upgrade software application. a good exampl of IDE is visual studio code, eclips,sublim text...
+
+version control is very important because it helps developers collaborate(work together as a team) it serve as a backup for developers.with version control,you can easily recover your  work, it allows a developer to maintain record of his or her work. etc
+exaple of version control is git,apache subversion.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
