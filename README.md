@@ -43,7 +43,6 @@ agile would be appropriat in an e-comerce development sccenerio where there is c
 
 
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 ANSWERE: a software develope is responsible for designing,building,testing and maintaining software application.
@@ -60,15 +59,7 @@ exaple of version control is git,apache subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-
-
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
-#Part 2: Introduction to AI and Prompt Engineering
-
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ANSWERE:some challenges a software engineer faces is when faced with a very tough bug and get to debug them and to aviod this problem the software engineer need to seek fresh ideas from the team.
+the constant changes in the tech idustry, is also another challenge. new ideas and framworsk keeps coming up. the soluton to this, is for the engineer to keep up wiith the trend by practicing and learning all the new technologies coming up.
+anothe challenge is not meeting up with the time given for a product to be build
+another challege is working with a team that is more anvance that you
